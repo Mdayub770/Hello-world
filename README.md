@@ -1,5 +1,9 @@
 # Hello-world
 
-hi humans
+ readme-edits
+Hi Humans
 
-its ayub here, i changed the hello-world by creating the branch of master
+Ayub here, i like node.js and coffeescript (that's what i'm made of!).
+I've had tacos on the moon and find them as far superior to earth tacos.
+
+>>>>>> master
